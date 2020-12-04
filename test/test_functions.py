@@ -1,4 +1,4 @@
-from libraryAbsf import multplicator_table, bisextil_year
+from libraryNrca import multplicator_table, bisextil_year
 
 
 def test_bisextil_year():
